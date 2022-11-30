@@ -24,7 +24,7 @@ public class PaypalController {
 
 	@GetMapping("/")
 	public String home() {
-		System.out.println("Harish");
+		System.out.println("chow");
 		return "home";
 	}
 
